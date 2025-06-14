@@ -4,7 +4,7 @@ Este projeto contém um dashboard desenvolvido em Power BI para análise de vend
 
 ## 📂 Arquivos
 
-- `Dashboard_Vendas.pbix`: Arquivo principal do Power BI
+- `dashboard-sales.pbix`: Arquivo principal do Power BI
 
 ## 📊 Métricas principais
 
