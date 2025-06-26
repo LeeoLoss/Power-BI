@@ -1,3 +1,5 @@
+![Visitantes](https://komarev.com/ghpvc/?username=leonardoloss&label=Visualizações&color=0e75b6&style=flat)
+
 # Dashboard de Vendas - Power BI
 
 Este projeto contém um dashboard desenvolvido em Power BI para análise de vendas por região, categoria de produto e desempenho mensal.
